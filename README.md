@@ -4,7 +4,9 @@
      alt="screenshot" 
      style="height: 150px">        
 
-<a href="https://apps.apple.com/us/app/smartpf/id1635493374?itsct=apps_box_badge&amp;itscg=30200">
+<a href="https://apps.apple.com/us/app/smartpf/id1635493374?itsct=apps_box_badge&amp;itscg=30200"
+   target="_blank"
+   rel="noopener noreferrer">
   <img src="https://user-images.githubusercontent.com/114917347/201505856-01f766e0-aedd-409d-89d6-29cef70a32ae.svg" 
        alt="Download on the App Store"
        style="height: 50px;">
